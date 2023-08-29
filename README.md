@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ifty-kharul/Ifty-kharul/blob/main/Iftykharul%20Islam.png)
 <h1 align="center">Hi 👋, I'm Iftykarul Islam</h1>
 <h3 align="center">A passionate wordpress developer from Bangladesh</h3>
 
